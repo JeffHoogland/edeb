@@ -6,7 +6,7 @@
 import apt
 import apt_inst
 import apt_pkg
-from elementary import exit as elmexit
+from efl.elementary import exit as elmexit
 
 
 

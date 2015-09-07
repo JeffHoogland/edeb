@@ -2,7 +2,7 @@ import os
 import string
 import urllib2
 import evas, ecore, esudo
-import elementary as elm
+import efl.elementary as elm
 import debfile as debianfile
 
 """          Checks/Information Functions

@@ -3,7 +3,7 @@
 import os
 import sys
 import ecore
-import elementary as elm
+import efl.elementary as elm
 import evas
 import checks
 import mimetypes

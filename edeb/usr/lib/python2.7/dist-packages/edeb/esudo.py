@@ -9,7 +9,7 @@ import getpass
 import PAM
 import ecore
 import evas
-import elementary as elm
+import efl.elementary as elm
 
 #----Popups
 def pw_error_popup(win):

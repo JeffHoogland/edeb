@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import sys
-import elementary as elm
+import efl.elementary as elm
 import edeb.edeb as eDeb
 
 try:
